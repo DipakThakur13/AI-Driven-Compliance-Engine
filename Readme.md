@@ -1,4 +1,4 @@
-🧠 AI-Driven Smart Compliance Engine
+🧠 AI-Driven-Compliance-Engine
 
 An intelligent compliance automation platform that helps organizations monitor, analyze, and enforce regulatory compliance using Artificial Intelligence, Machine Learning, and rule-based systems.
 The system reduces manual compliance efforts, identifies risks early, and generates actionable compliance reports.
@@ -170,8 +170,8 @@ AI-Smart-Compliance-Engine/
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/DipakThakur13/AI-Smart-Compliance-Engine.git
-cd AI-Smart-Compliance-Engine
+git clone https://github.com/DipakThakur13/AI-Driven-Compliance-Engine.git
+cd AI-Driven-Compliance-Engine
 
 2️⃣ Create Virtual Environment
 python -m venv venv
@@ -240,4 +240,4 @@ AI/ML Engineer
 
 Dipak Kumar
 Final-Year Engineering Student
-Project: AI-Driven Smart Compliance Engine
+Project: AI-Driven-Compliance-Engine
